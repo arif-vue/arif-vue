@@ -3,12 +3,12 @@
 
 Email Me 👉 ✉️ **arif_nuxt@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 🔭 **I’m currently working on: Building projects using C++, solving DSA problems, and contributing to open-source.
+- 🌱 **I’m currently learning: Full-Stack Web Development, Competitive Programming, and exploring Machine Learning.
+- 👯 **I’m looking to collaborate on: Open-source projects, competitive programming contests, and web-based apps.
+- 🤔 **I’m looking for help with: Building scalable web applications and improving my algorithmic thinking.
+- 💬 **Ask me about: C++, Data Structures & Algorithms, Web Development, and problem-solving.
+- 📫 **How to reach me: arif_nuxt@gmail.com
 - 😄 **Pronouns:** Arif
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 ## 🌐 Socials:
