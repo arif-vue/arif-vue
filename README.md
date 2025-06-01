@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **arif_nuxt@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: Building projects using C++, solving DSA problems, and contributing to open-source.
+- 🔭 **I’m currently working on: Building projects using Python(Django), solving DSA problems using C++, and contributing to open-source.
 - 🌱 **I’m currently learning: Full-Stack Web Development, Competitive Programming, and exploring Machine Learning.
 - 👯 **I’m looking to collaborate on: Open-source projects, competitive programming contests, and web-based apps.
 - 🤔 **I’m looking for help with: Building scalable web applications and improving my algorithmic thinking.
