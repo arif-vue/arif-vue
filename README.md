@@ -8,9 +8,27 @@ Email Me 👉 ✉️ **arif_nuxt@gmail.com** For Collaboration/Project or Anythi
 - 👯 **I’m looking to collaborate on: Open-source projects, competitive programming contests, and web-based apps.
 - 🤔 **I’m looking for help with: Building scalable web applications and improving my algorithmic thinking.
 - 💬 **Ask me about: C++, Data Structures & Algorithms, Web Development, and problem-solving.
-- 📫 **How to reach me: arif_nuxt@gmail.com
-- 😄 **Pronouns:** Arif
-- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
+---
+## 🚀 Django Projects
+| Project Name | GitHub Link |
+|--------------|-------------|
+| Django Platelet Embody Website | [🔗 View Project](https://github.com/arif-vue/Django-Platelet-Embody-Website) |
+| Music Streaming Service | [🔗 View Project](https://github.com/arif-vue/Music-Streaming-Service) |
+| GoldenCart E-Commerce | [🔗 View Project](https://github.com/arif-vue/GoldenCart-E-Commerce) |
+| Agri Rental BD (Django) | [🔗 View Project](https://github.com/arif-vue/Agri-Rental-BD-Django) |
+| Django + React Collaborating Music System | [🔗 View Project](https://github.com/arif-vue/Django-React-Collaborating-Music-Playing-System) |
+| Django Gadget Specification Website | [🔗 View Project](https://github.com/arif-vue/Django-Gadget-Specification-Website) |
+| Django Real Estate Website | [🔗 View Project](https://github.com/arif-vue/Django-Real-Estate) |
+
+---
+
+## 📦 DRF (Django REST Framework)
+- **Complete DRF Guide**: [🔗 Django-Rest-Framework-Complete-DRF](https://github.com/arif-vue/Django-Rest-Framework-Complete-DRF-/tree/master)
+
+## 📘 Data Structures & Algorithms
+- **DSA in C++**: [🔗 DSA-Cpp](https://github.com/arif-vue/DSA-Cpp)
+
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arif.vue) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arif_vue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-vue) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arif.nuxt@gmail.com) 
 
